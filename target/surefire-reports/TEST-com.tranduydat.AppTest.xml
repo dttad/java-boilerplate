@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tranduydat.AppTest" time="0.068" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tranduydat.AppTest" time="0.126" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\datdu\java-boilerplate\javaBoilerplate\target\test-classes;C:\Users\datdu\java-boilerplate\javaBoilerplate\target\classes;C:\Users\datdu\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\datdu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\datdu\java-boilerplate\javaBoilerplate\target\test-classes;C:\Users\datdu\java-boilerplate\javaBoilerplate\target\classes;C:\Users\datdu\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\datdu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;"/>
     <property name="java.vm.vendor" value="Azul Systems, Inc."/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\datdu\AppData\Local\Temp\surefire14425144536231792676\surefirebooter3937548795828374843.jar C:\Users\datdu\AppData\Local\Temp\surefire14425144536231792676 2023-02-12T17-53-37_017-jvmRun1 surefire16126222877017588713tmp surefire_016844298134088883991tmp"/>
+    <property name="sun.java.command" value="C:\Users\datdu\AppData\Local\Temp\surefire17116695311724526356\surefirebooter11042661204150217972.jar C:\Users\datdu\AppData\Local\Temp\surefire17116695311724526356 2023-02-12T18-08-12_901-jvmRun1 surefire15686338728604815287tmp surefire_018345231275529637910tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\datdu\java-boilerplate\javaBoilerplate\target\test-classes;C:\Users\datdu\java-boilerplate\javaBoilerplate\target\classes;C:\Users\datdu\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\datdu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\datdu\java-boilerplate\javaBoilerplate\target\test-classes;C:\Users\datdu\java-boilerplate\javaBoilerplate\target\classes;C:\Users\datdu\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\datdu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\datdu"/>
     <property name="user.language" value="en"/>
@@ -34,7 +34,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="jdk.vendor.version" value="Zulu11.60+19-CA"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\datdu\AppData\Local\Temp\surefire14425144536231792676\surefirebooter3937548795828374843.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\datdu\AppData\Local\Temp\surefire17116695311724526356\surefirebooter11042661204150217972.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.17+8-LTS"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.tranduydat.AppTest" time="0.004"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.tranduydat.AppTest" time="0.005"/>
 </testsuite>

@@ -1,4 +1,4 @@
-package com.tranduydat;
+package com.tranduydat.boilerplate;
 
 /**
  * Hello world!
