@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tranduydat.AppTest" time="0.132" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tranduydat.AppTest" time="0.126" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\datdu\AppData\Local\Temp\surefire12569009667783257899\surefirebooter11701982385330086988.jar C:\Users\datdu\AppData\Local\Temp\surefire12569009667783257899 2023-02-12T18-17-45_448-jvmRun1 surefire731097770441116467tmp surefire_0295284593409291429tmp"/>
+    <property name="sun.java.command" value="C:\Users\datdu\AppData\Local\Temp\surefire6065319900575654886\surefirebooter16917460985965195779.jar C:\Users\datdu\AppData\Local\Temp\surefire6065319900575654886 2023-02-12T18-59-55_073-jvmRun1 surefire15603520192378481162tmp surefire_017290438474485415415tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\datdu\java-boilerplate\javaBoilerplate\target\test-classes;C:\Users\datdu\java-boilerplate\javaBoilerplate\target\classes;C:\Users\datdu\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\datdu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\datdu\.m2\repository\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="jdk.vendor.version" value="Zulu11.60+19-CA"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\datdu\AppData\Local\Temp\surefire12569009667783257899\surefirebooter11701982385330086988.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\datdu\AppData\Local\Temp\surefire6065319900575654886\surefirebooter16917460985965195779.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.17+8-LTS"/>
