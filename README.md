@@ -1,1 +1,2 @@
 # Java Boilerplate
+[![Maven Package](https://github.com/tranduydat/java-boilerplate/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/tranduydat/java-boilerplate/actions/workflows/maven-publish.yml)
