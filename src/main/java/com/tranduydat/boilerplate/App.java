@@ -3,9 +3,12 @@ package com.tranduydat.boilerplate;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.util.function.Function;
+
 /**
- * Hello world!
- *
+ * Java Boilerplate project
+ * @version 1.0 2023-01-12
+ * @author trdat
  */
 public class App 
 {
